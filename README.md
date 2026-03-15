@@ -1,48 +1,87 @@
-# Social Distance Violation System
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Social%20Distance%20Violation%20System&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</div>
 
-A project by Hafiz Abdul Rehman.
+# Social-Distance-Violation-System
 
-## 📖 Overview
+Social distance violation monitoring system using YOLO object detection with bird's eye view perspective transformation.
 
-This repository contains the implementation of Social Distance Violation System.
+---
 
-## 🚀 Features
+## Project Status: ✅ COMPLETE & READY FOR DEPLOYMENT
 
-- Implementation details coming soon
+![GitHub stars](https://img.shields.io/github/stars/Abdul-Insighht/Social-Distance-Violation-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Abdul-Insighht/Social-Distance-Violation-System?style=social)
 
-## ⚙️ Installation
+---
 
+## 🛠️ Tech Stack
+
+```
+Python, YOLO, OpenCV, NumPy
+```
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
 ```bash
 git clone https://github.com/Abdul-Insighht/Social-Distance-Violation-System.git
 cd Social-Distance-Violation-System
 ```
 
-## 📝 Usage
+2. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
 
-Documentation coming soon.
-
-
----
-
-## 📬 Contact
-
-**Hafiz Abdul Rehman**
-
-- 📧 Email: hafizrehman3321@gmail.com
-- 💼 LinkedIn: [Hafiz Abdul Rehman](https://linkedin.com/in/hafiz-abdul-rehman-9990ab329)
-- 🐙 GitHub: [Abdul-Insighht](https://github.com/Abdul-Insighht)
+3. **Run the project**
+```bash
+python main.py
+```
 
 ---
 
-## 🌟 Show Your Support
+## ⭐ Quick Links
 
-If you find this project helpful, please consider:
-
-- ⭐ **Starring** this repository
-- 🔄 **Sharing** with others
-- 🐛 **Reporting** issues
-- 💡 **Suggesting** improvements
+⭐ [Star this repo](https://github.com/Abdul-Insighht/Social-Distance-Violation-System) • 🐛 [Report Bug](https://github.com/Abdul-Insighht/Social-Distance-Violation-System/issues) • 💡 [Request Feature](https://github.com/Abdul-Insighht/Social-Distance-Violation-System/issues)
 
 ---
 
-<p align="center">Made with ❤️ by <b>Hafiz Abdul Rehman</b></p>
+Made with ❤️ using Python & AI Technologies — Demonstration by **Abdul-Insighht** - Data Science Specialist | AI Agent & Agentic AI Developer
+
+---
+
+## 👤 Author
+
+<table>
+<tr>
+<td>
+
+**Hafiz Abdul Rehman**  
+[Abdul-Insighht](https://github.com/Abdul-Insighht) · he/him  
+**Data Science Specialist | AI Agent & Agentic AI Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Abdul--Insighht-181717?style=flat-square&logo=github)](https://github.com/Abdul-Insighht)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hafiz-abdul-rehman-9990ab329/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <sub>⭐️ From <a href="https://github.com/Abdul-Insighht">Abdul-Insighht</a> — Passionate about AI, ML, and solving real-world problems</sub>
+</div>
